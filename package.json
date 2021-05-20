@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "devDependencies": {
+    "@roots/bud": "^4.2.0",
+    "@roots/bud-cli": "^4.2.0"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "chunks": {
+    "byName": {
+      "app": 143
+    },
+    "bySource": {
+      "0 app": 143
+    },
+    "usedIds": [
+      143
+    ]
+  },
+  "modules": {
+    "byIdentifier": {
+      "./node_modules/raw-loader/dist/cjs.js!./src/app.js": 623
+    },
+    "usedIds": [
+      623
+    ]
+  }
+}
